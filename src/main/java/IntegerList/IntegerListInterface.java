@@ -1,3 +1,5 @@
+package IntegerList;
+
 public interface IntegerListInterface {
     Integer add(Integer item);
 
@@ -25,5 +27,10 @@ public interface IntegerListInterface {
 
     void clear();
 
-    Integer[] toArray();
+     Integer[] toArray();
+
+
+
+
+
 }
