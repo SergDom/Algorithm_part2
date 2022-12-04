@@ -93,11 +93,6 @@ class IntegerListTest {
         assertTrue(integerList.equals(check));
     }
 
-//    @Test
-//    void arrayTestEqualsException() {
-//        Integer[] otherList = new Integer[0];
-//     assertThrows(NullPointerException.class, ()->otherList.)
-//    }
 
     @Test
     void size() {
